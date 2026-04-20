@@ -22,6 +22,9 @@ Use the **ARROW KEYS** to move while grounded on a planet:
 * **Gravity:** Not all planets have the same pull. Some are weak enough to glide past, while others will pull you to the surface instantly. 
 * **Slingshot Effect:** Use your **Thrust** to multiply your momentum. You can even combine the gravity fields of multiple planets to send your speed to the max!
 
+## 🖼️ Preview
+![Planet Jumper Main Menu](Screenshot%202026-04-20%20132109.png)
+
 ---
 
 ## 🎵 Legal
