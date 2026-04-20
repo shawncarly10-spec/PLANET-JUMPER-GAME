@@ -21,6 +21,7 @@ Use the **ARROW KEYS** to move while grounded on a planet:
 * **Friction:** You may notice you move faster or slower depending on the planet. Each world has a unique friction value—some allow you to glide easily, while others are so intense you can barely move.
 * **Gravity:** Not all planets have the same pull. Some are weak enough to glide past, while others will pull you to the surface instantly. 
 * **Slingshot Effect:** Use your **Thrust** to multiply your momentum. You can even combine the gravity fields of multiple planets to send your speed to the max!
+* **HIGH DANGER PLANETS** Black Planets act like black holes grabbing you with VERY strong gravity, while White Planets act like white holes pushing you with VERY high anti-gravity
 
 ## 🖼️ Preview
 ![Planet Jumper Main Menu](Screenshot%202026-04-20%20132109.png)
