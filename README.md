@@ -25,6 +25,10 @@ Use the **ARROW KEYS** to move while grounded on a planet:
 ## 🖼️ Preview
 ![Planet Jumper Main Menu](Screenshot%202026-04-20%20132109.png)
 
+
+https://github.com/user-attachments/assets/660d038c-19af-4ec8-ade3-0e01f6c167d4
+
+
 ---
 
 ## 🎵 Legal
