@@ -1,16 +1,28 @@
-# PLANET-JUMPER-GAME
-## Downloading the File
-  > **IMPORTANT**
-  >Antivirus software will makr this file as unsafe. You must manualy make the file marked as safe in order to run
-## Controls/Gameplay
-  Using the 'W', 'A', 'D' is what gives your rocket Thrust to take off into space.
-    *W: Moves you up
-    *A: Moves you right
-    *D: Moves you left
-  But you may ask why is it technaly inverted for LEFT and RIGHT? Well when you press A it activated thrust from the left side of you making you move to the RIGHT and the same viseversa for when you press D
-  Using the ARROW KEYS move you left and right on a planet
-    * LEFT ARROW: moves you left
-    * RIGHT ARROW: moves you right
-  now somthing you may notice is that each planet you move faster or slower when you walk around it. Well to answer the question of why, its due to friction on the planet. Each planet has a diffrent friction value. Such as some can have very little and other so intense that you can barely move
-  Now somthing you may have also noticed is all the planets don't have the same gravity pull. Some are so weak that you simpley gluid past them while others are so strong you are pulled into thier surface quickly. using your **Thrust** you can mutiply your momentume of your rocket to send you flying. You can even try adding mutiple planets gravity fields to send your speed to the max
-The tracks "Planetary Descent" and "Return Home" are © [Rustic Rabbit Records] and are not licensed for reuse.
+# 🚀 PLANET-JUMPER-GAME 🪐
+
+## ⚠️ Downloading the File
+> **IMPORTANT:** Antivirus software will often mark this file as unsafe because it is an indie executable. You must manually mark the file as safe or "Exclusion" in order to run it.
+
+## 🕹️ Controls & Gameplay
+Using **'W', 'A', and 'D'** provides your rocket with the thrust needed to take off into space.
+
+* **W:** Vertical Thrust (Up)
+* **A:** Left Thruster (Pushes you **RIGHT**)
+* **D:** Right Thruster (Pushes you **LEFT**)
+
+**Why is it inverted?** When you press 'A', it activates the thrust from the left side of your ship, propelling you to the right. The same logic applies to 'D'.
+
+### Planetary Movement
+Use the **ARROW KEYS** to move while grounded on a planet:
+* **LEFT ARROW:** Move Left
+* **RIGHT ARROW:** Move Right
+
+### 🪐 Physics Mechanics
+* **Friction:** You may notice you move faster or slower depending on the planet. Each world has a unique friction value—some allow you to glide easily, while others are so intense you can barely move.
+* **Gravity:** Not all planets have the same pull. Some are weak enough to glide past, while others will pull you to the surface instantly. 
+* **Slingshot Effect:** Use your **Thrust** to multiply your momentum. You can even combine the gravity fields of multiple planets to send your speed to the max!
+
+---
+
+## 🎵 Legal
+The tracks **"Planetary Descent"** and **"Return Home"** are © **Rustic Rabbit Records** and are not licensed for reuse.
