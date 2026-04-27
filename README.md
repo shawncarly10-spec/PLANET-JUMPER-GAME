@@ -35,8 +35,8 @@ https://github.com/user-attachments/assets/660d038c-19af-4ec8-ade3-0e01f6c167d4
 ## 🎵 Original Soundtrack
 All music for **Planet Jumper** was composed and produced by Rustic Rabbit Records. You can now stream the official tracks on Spotify:
 
-* 🎧 [Planetary Descent]((https://open.spotify.com/track/1p7DYXRAx9fsbQgZ2vy2qD?si=46e12adedfaf4ee6))
-* 🎧 [Return Home]((https://open.spotify.com/track/1687rw5PQwLJWEszzHCF1r?si=1a7eb7554fb44eb6))
+* 🎧 [Planetary Descent](https://open.spotify.com/track/1p7DYXRAx9fsbQgZ2vy2qD?si=46e12adedfaf4ee6)
+* 🎧 [Return Home](https://open.spotify.com/track/1687rw5PQwLJWEszzHCF1r?si=1a7eb7554fb44eb6)
 
 ## ⚖️ Legal & Credits
 * **Developer:** Shawn Garcia
